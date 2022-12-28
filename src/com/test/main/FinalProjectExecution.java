@@ -1,4 +1,4 @@
-package com.mainexecutionprocess;
+package com.test.main;
 
 import java.util.Scanner;
 
